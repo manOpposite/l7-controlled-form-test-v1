@@ -33,4 +33,4 @@ test-steps:
 	node --test --test-name-pattern step5
 
 test-step:
-	node --test --test-name-pattern step$(STEP)
+	node --test --test-name-pattern step$(STEP)`
